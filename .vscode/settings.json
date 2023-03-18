@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "git",
-        "project"
+        "project",
+        "pizza"
     ]
 }
